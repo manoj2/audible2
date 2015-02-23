@@ -1,4 +1,4 @@
-Spiral Print for Audible Job Interview
+Spiral Print for Audible
 
 The program SpiralPrint will generate the 2-dimensional array internally and print it spirally
 
